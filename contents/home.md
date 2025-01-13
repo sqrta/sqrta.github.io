@@ -1,16 +1,23 @@
 
+Wellcome to Haowei Deng's homepage
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Bio
+======
+I am a Ph.d student in at the [Department of Computer Science](https://www.cs.umd.edu/), University of Maryland, College Park from 2020 Aug. I was also affiliated with the [Joint Center for Quantum Information and Computer Science](https://quics.umd.edu/). I was advised by Prof. [Xiaodi Wu](https://www.cs.umd.edu/~xwu/). My research focuses on quantum program synthesis, quantum circuit optimization and quantum error correction code search.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+In 2020, I received a Bachelor of Engineering from the [Institute for Computer Science](https://en.cs.ustc.edu.cn/main.htm), University of Science and Technology of China.
 
-#### Email
-sli[at]cumt.edu.cn
+Publication
+======
+- A Case for Synthesis of Recursive Quantum Unitary Programs ([paper](https://dl.acm.org/doi/10.1145/3632901), [code](https://github.com/sqrta/QSynth))
+  + **Haowei Deng**, Runzhou Tao, Yuxiang Peng, Xiaodi Wu.
+  + In Proceedings of the ACM on Programming Languages, 8 (POPL), 1759 - 1788, 2024.
+  
+- Automating NISQ Application Design with Meta Quantum Circuits with Constraints (MQCC) ([paper](https://dl.acm.org/doi/10.1145/3579369), [code](https://github.com/sqrta/MQCC)).
+  + **Haowei Deng**, Yuxiang Peng, Michael Hicks, Xiaodi Wu 
+  + In ACM Transactions on Quantum Computing, Volume 4, Issue 3, April 2023
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+- Context-Sensitive and Duration-Aware Qubit Mapping for Various NISQ Devices ([paper](https://ieeexplore.ieee.org/document/9218561)).
+  + **Haowei Deng**, Yu Zhang, Quanxi Li
+  + In 2020 57th ACM/IEEE Design Automation Conference (DAC)
 

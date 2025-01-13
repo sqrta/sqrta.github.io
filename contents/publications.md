@@ -1,12 +1,15 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- A Case for Synthesis of Recursive Quantum Unitary Programs ([paper](https://dl.acm.org/doi/10.1145/3632901), [code](https://github.com/sqrta/QSynth))
+  + **Haowei Deng**, Runzhou Tao, Yuxiang Peng, Xiaodi Wu.
+  + In Proceedings of the ACM on Programming Languages, 8 (POPL), 1759 - 1788, 2024.
+  
+- Automating NISQ Application Design with Meta Quantum Circuits with Constraints (MQCC) ([paper](https://dl.acm.org/doi/10.1145/3579369), [code](https://github.com/sqrta/MQCC)).
+  + **Haowei Deng**, Yuxiang Peng, Michael Hicks, Xiaodi Wu 
+  + In ACM Transactions on Quantum Computing, Volume 4, Issue 3, April 2023
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Context-Sensitive and Duration-Aware Qubit Mapping for Various NISQ Devices ([paper](https://ieeexplore.ieee.org/document/9218561)).
+  + **Haowei Deng**, Yu Zhang, Quanxi Li
+  + In 2020 57th ACM/IEEE Design Automation Conference (DAC)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Optimizing Quantum Programs Against Decoherence: Delaying Qubits into Quantum Superposition ([paper](https://www.computer.org/csdl/proceedings-article/tase/2019/334200a184/1fpNC0HBIbu)).
+  + Yu Zhang, **Haowei Deng**, Quanxi Li, Haoze Song, Leihai Nie
+  + In 2019 International Symposium on Theoretical Aspects of Software Engineering (TASE)
