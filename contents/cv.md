@@ -1,13 +1,5 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-[resume](files/Haowei_Resume.pdf) (updated in 01/2025)
+[resume](static/files/Haowei_Resume.pdf) (updated in 01/2025)
 
 Education
 ======
