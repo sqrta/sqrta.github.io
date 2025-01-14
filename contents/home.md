@@ -7,7 +7,7 @@ I am a Ph.d student in at the [Department of Computer Science](https://www.cs.um
 
 In 2020, I received a Bachelor of Engineering from the [Institute for Computer Science](https://en.cs.ustc.edu.cn/main.htm), University of Science and Technology of China.
 
-Publication
+<!-- Publication
 ======
 - A Case for Synthesis of Recursive Quantum Unitary Programs ([paper](https://dl.acm.org/doi/10.1145/3632901), [code](https://github.com/sqrta/QSynth))
   + **Haowei Deng**, Runzhou Tao, Yuxiang Peng, Xiaodi Wu.
@@ -19,5 +19,5 @@ Publication
 
 - Context-Sensitive and Duration-Aware Qubit Mapping for Various NISQ Devices ([paper](https://ieeexplore.ieee.org/document/9218561)).
   + **Haowei Deng**, Yu Zhang, Quanxi Li
-  + In 2020 57th ACM/IEEE Design Automation Conference (DAC)
+  + In 2020 57th ACM/IEEE Design Automation Conference (DAC) -->
 
